@@ -1,3 +1,3 @@
-Self-studying project by coding-along
-#1
+# SELF-STUDING PROJECT BY CODING-ALONG
+## #1
 2023.12.16 Added AI Image Generator (ReactJS & CSS)
